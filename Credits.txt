@@ -1,0 +1,2 @@
+hugsy (github) for the list of adjectives
+Kodrin (github) for the vertex snapping subgraph
