@@ -772,7 +772,6 @@ nippy
 nocturnal
 noisy
 nonstop
-normal
 notable
 noted
 noteworthy
